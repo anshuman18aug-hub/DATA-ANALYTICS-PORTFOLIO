@@ -1,0 +1,38 @@
+# Bank Loan Risk Analysis – Tableau
+
+## Overview
+
+An end-to-end Tableau analytics project analyzing loan applications across multiple cities to understand loan volumes, approval patterns, and borrower characteristics.
+
+## Business Problem
+
+Analyze loan application data to identify patterns in loan status, loan purpose, employment type, location, and credit scores to support better understanding of loan approval trends.
+
+## Tools & Technologies
+
+- Tableau
+- Data Visualization
+- Interactive Dashboards
+
+## Dashboard Features
+
+- 3 organized dashboards
+- 6 KPI cards
+- Loan Purpose Bar Chart
+- Loan Status Pie Chart
+- State-wise Loan Distribution Map
+- Interactive filters
+- Cross-dashboard filtering
+
+## Key Insight
+
+Higher credit scores were associated with higher loan approval rates.
+
+## Analysis
+
+The dashboards enable drill-down analysis of loan volumes based on:
+
+- Loan Status
+- Loan Purpose
+- Employment Type
+- State
