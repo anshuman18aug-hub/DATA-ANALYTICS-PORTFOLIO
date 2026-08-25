@@ -1,0 +1,46 @@
+# Employee Attrition Analysis – Python
+
+## Overview
+
+An employee attrition analysis project using Python and Pandas to explore employee records, clean the data, analyze attrition patterns, and identify workforce retention insights.
+
+## Business Problem
+
+Analyze employee data to understand attrition patterns across departments, gender, age, job satisfaction, overtime, and salary levels.
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+
+## Data Preparation
+
+- Loaded and explored employee data
+- Detected null values
+- Removed duplicate records
+- Corrected incorrect data
+- Prepared the dataset for analysis
+
+## Analysis
+
+Used Pandas Series, DataFrame operations, and GroupBy aggregations to analyze employee attrition patterns.
+
+## Visualizations
+
+Created:
+
+- Bar Charts
+- Pie Charts
+- Histograms
+
+## Key Insights
+
+- Employees working overtime showed higher attrition risk
+- Employees with low job satisfaction showed higher attrition risk
+- Employees with salaries below 40,000 showed higher attrition risk
+- Analyzed attrition patterns across 6 departments
+- Examined attrition patterns by gender and age distribution
