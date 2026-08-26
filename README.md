@@ -46,5 +46,5 @@ Interactive Excel dashboard with Power Query, Pivot Tables, Slicers and visualiz
 
 ## Connect With Me
 
-- LinkedIn  
-- GitHub (- [GitHub](https://github.com/anshuman18aug-hub)
+- LinkedIn (https://www.linkedin.com/in/anshuman-singh-577858341/)
+- GitHub (- [GitHub](https://github.com/anshuman18aug-hub))
