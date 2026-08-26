@@ -26,7 +26,7 @@ Healthcare Operations, HR Workforce & Sales Analytics
 
 ### HR Workforce Intelligence System
 SQL Server-based workforce analysis using SQL queries and advanced SQL concepts.
-
+[View HR Workforce Intelligence SQL](./HR%20Workforce%20Intelligence%20SQL)
 ### Bank Loan Risk Analysis
 Interactive Tableau dashboards analyzing loan applications and approval patterns.
 
