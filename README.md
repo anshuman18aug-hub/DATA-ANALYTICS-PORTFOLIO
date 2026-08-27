@@ -23,7 +23,7 @@ I work with SQL, Python, Power BI, Tableau, and Excel to clean, analyze, visuali
 
 ### Power BI Analytics Dashboards
 Healthcare Operations, HR Workforce & Sales Analytics
-[View Power BI Analytics Dashboards](./POWER%20BI%20ANALYTICS%20DASHBAORDS)
+https://github.com/anshuman18aug-hub/POWER-BI-ANALYTICS-DASHBOARDS---HEALTHCARE-OPERATIONS-HR-WORKFORCE-INTELLIGENCE-SALES-ANALYTICS
 ### HR Workforce Intelligence System
 SQL Server-based workforce analysis using SQL queries and advanced SQL concepts.
 [View HR Workforce Intelligence SQL](./HR%20Workforce%20Intelligence%20SQL)
