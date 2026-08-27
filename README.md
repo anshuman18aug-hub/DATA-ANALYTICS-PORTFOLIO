@@ -32,7 +32,7 @@ Interactive Tableau dashboards analyzing loan applications and approval patterns
 https://github.com/anshuman18aug-hub/BANK-LOAN-ANALYSIS---TABLEAU
 ### Employee Attrition Analysis
 Employee attrition analysis using Python and Pandas.
-[View Employee Attrition Analysis](./Employee%20attrition%20analysis%20PANDAS)
+https://github.com/anshuman18aug-hub/EMPLOYEE-ATTRITION-ANALYSIS---PYTHON-PANDAS-/tree/main
 ### Sales Performance Dashboard
 Interactive Excel dashboard with Power Query, Pivot Tables, Slicers and visualizations.
 [View Sales Performance Dashboard](./Sales%20Performance%20Dashboard%20Excel)
