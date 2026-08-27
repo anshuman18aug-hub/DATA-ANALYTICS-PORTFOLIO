@@ -26,7 +26,7 @@ Healthcare Operations, HR Workforce & Sales Analytics
 https://github.com/anshuman18aug-hub/POWER-BI-ANALYTICS-DASHBOARDS---HEALTHCARE-OPERATIONS-HR-WORKFORCE-INTELLIGENCE-SALES-ANALYTICS
 ### HR Workforce Intelligence System
 SQL Server-based workforce analysis using SQL queries and advanced SQL concepts.
-[View HR Workforce Intelligence SQL](./HR%20Workforce%20Intelligence%20SQL)
+https://github.com/anshuman18aug-hub/HR-WORKFORCE-INTELLIGENCE-SYSTEM---SQL-SERVER
 ### Bank Loan Risk Analysis
 Interactive Tableau dashboards analyzing loan applications and approval patterns.
 [View Bank Loan Risk Analysis Tableau](./Bank%20Loan%20Risk%20Analysis%20Tableau)
