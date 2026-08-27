@@ -29,7 +29,7 @@ SQL Server-based workforce analysis using SQL queries and advanced SQL concepts.
 https://github.com/anshuman18aug-hub/HR-WORKFORCE-INTELLIGENCE-SYSTEM---SQL-SERVER
 ### Bank Loan Risk Analysis
 Interactive Tableau dashboards analyzing loan applications and approval patterns.
-[View Bank Loan Risk Analysis Tableau](./Bank%20Loan%20Risk%20Analysis%20Tableau)
+https://github.com/anshuman18aug-hub/BANK-LOAN-ANALYSIS---TABLEAU
 ### Employee Attrition Analysis
 Employee attrition analysis using Python and Pandas.
 [View Employee Attrition Analysis](./Employee%20attrition%20analysis%20PANDAS)
