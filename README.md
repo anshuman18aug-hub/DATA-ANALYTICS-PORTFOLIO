@@ -35,7 +35,7 @@ Employee attrition analysis using Python and Pandas.
 https://github.com/anshuman18aug-hub/EMPLOYEE-ATTRITION-ANALYSIS---PYTHON-PANDAS-/tree/main
 ### Sales Performance Dashboard
 Interactive Excel dashboard with Power Query, Pivot Tables, Slicers and visualizations.
-[View Sales Performance Dashboard](./Sales%20Performance%20Dashboard%20Excel)
+https://github.com/anshuman18aug-hub/SALES-PERFROMENCE-DASHBOARD-MS-EXCEL/tree/main
 ## Certifications
 
 - Excel for Data Analysis – Coursera
